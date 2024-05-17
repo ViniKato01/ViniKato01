@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViniKato01
-- 👀 I’m interested in become a FullStack Web Developer
+- 👀 I’m interested in becoming a FullStack Web Developer
 - 🌱 I’m currently learning JS and React.
 
 
