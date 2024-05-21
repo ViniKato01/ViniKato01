@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniKato01
 - 👀 I’m interested in becoming a FullStack Web Developer
-- 🌱 I’m currently learning JS and React.
+- 🌱 I’m currently learning JS, React and improving my soft skills in HTML and CSS.
 
 
 <!---
