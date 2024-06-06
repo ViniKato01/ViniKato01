@@ -12,7 +12,7 @@
 </div>
 
 <a><br>
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniKato01&size_weight=0.5&count_weight=0.5"/> 
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniKato01"/> 
 </a>
 
 <div><br>
